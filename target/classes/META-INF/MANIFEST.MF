@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ls-215
+Build-Jdk: 10.0.2
+Implementation-Title: Learning Springboot Lesson-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: lesson1.khaliddhali.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/lesson1-springboot
+Created-By: Maven Integration for Eclipse
+

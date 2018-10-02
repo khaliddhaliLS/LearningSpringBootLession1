@@ -1,14 +1,14 @@
 package lession1.khaliddhali.springboot.topic;
 
-public class Topic {
+public class Programmer {
 	private String name;
 	private int id;
 	
 	//Constructors
-	public Topic() {
+	public Programmer() {
 		//Empty constructor
 	}
-	public Topic(String name, int id) {
+	public Programmer(String name, int id) {
 		super();
 		this.name = name;
 		this.id = id;

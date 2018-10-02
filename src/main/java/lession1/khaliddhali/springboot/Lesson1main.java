@@ -16,6 +16,5 @@ public class Lesson1main {
 		 */
 		SpringApplication.run(Lesson1main.class, args);
 	}
-
 }
  

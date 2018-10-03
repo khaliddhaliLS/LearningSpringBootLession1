@@ -36,4 +36,10 @@ public class ProgrammerController {
 	public void addProgrammer(@RequestBody Programmer programmer) {
 		programmerService.addProgrammer(programmer);
 	}
+	
+	//PUT: to update
+	@RequestMapping(method=RequestMethod.PUT, value="/programmer.update/{id}")
+	public void updateProgrammer(@RequestBody int id) {
+		programmerService.updateProgrammer(id);
+	}
 }
